@@ -9,6 +9,7 @@ Pixie is a photo editor application that works on mobile and desktop. It can be 
 
 <img src="logo.webp">
 
+[Live Preview](https://pixie.vebto.com/)
 
 <img src="screenshots/description.jpg">
 
