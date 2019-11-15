@@ -1,9 +1,3 @@
-### Important
-```
-LuckyPal IT started this project from 2017 and last version is launched at Feb 2019.
-Under NDA sign, we can't public source and requirement documents, but you can check project under agreement.
-```
-
 # Pixie
 Pixie is a photo editor application that works on mobile and desktop. It can be easily integrated into any new or existing project.
 
